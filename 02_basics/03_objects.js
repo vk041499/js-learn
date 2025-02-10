@@ -1,8 +1,8 @@
-// singletons 
+// singletons and literals
 
 //Object.create
 
-// objects literals
+// objects literals we are going to study here..
 
 const mySym = Symbol("key1");
 
